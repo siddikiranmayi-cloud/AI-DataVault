@@ -1,0 +1,6 @@
+{
+  "name": "AI DataVault — Zero-Trust Firewall for AI Agents",
+  "description": "Zero-Trust Security for Autonomous AI Agents. Control what AI can access, understand, and do with defense-in-depth security policies, data minimization, and real-time execution firewalls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
